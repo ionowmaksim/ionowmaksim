@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Skillbox_11_4</string>
+    <string name="textView_autorization">Авторизация</string>
+    <string name="editText_email_hint">E-mail</string>
+    <string name="editText_password_hint">Пароль</string>
+    <string name="checkbox_license_text">Согласен с условиями пользовательского соглашения</string>
+    <string name="button_login_text">Войти</string>
+    <string name="toast_loginComplete">Авторизация прошла успешно</string>
+</resources>
